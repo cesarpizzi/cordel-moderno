@@ -60,7 +60,7 @@ div.parte-3 {
 p.p1, p.p3 {
     text-align: justify;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.500);
-    width: 50%;
+    width: 38.5%;
     color: white;
     background-color: rgba(0, 0, 0, 0.800);
     padding: 40px;
@@ -69,7 +69,7 @@ p.p1, p.p3 {
 }
 p.p2 {
     text-align: justify;
-    width: 50%;
+    width: 38.5%;
     padding: 40px;
     line-height: 20px;
     
