@@ -27,7 +27,7 @@ main {
     margin: auto;
 }
 div.parte-1 {
-    background-image: url('../imagens/background001.jpg');
+    background-image: url('../imagens/sol-nordestino.jpg');
     background-size: cover;
     background-position: center center;
     background-attachment: fixed;
@@ -48,7 +48,7 @@ div.parte-2 {
     border-right: 2px dashed rgba(128, 128, 128, 0.70);
 }
 div.parte-3 {
-    background-image: url('../imagens/background002.jpg');
+    background-image: url('../imagens/nordestino.jpg');
     background-size: cover;
     background-position: center center;
     background-attachment: fixed;
