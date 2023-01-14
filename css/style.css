@@ -94,6 +94,14 @@ footer a {
 }
 footer a:hover {
     color: gray;
+
+}
+
+footer a:visited {
+    color: blueviolet;
+}
+footer a:active {
+    color: white;
 }
 footer span {
     font-weight: bold;
