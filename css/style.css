@@ -21,6 +21,23 @@ header p {
 p > span {
     font-size: 1.3em;
 }
+header a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+header a:hover {
+    color: gray;
+    text-decoration: underline;
+
+}
+
+header a:visited {
+    color: orange;
+}
+header a:active {
+    color: white;
+}
 main {
     max-width: 800px;
     min-width: 300px;
@@ -94,11 +111,12 @@ footer a {
 }
 footer a:hover {
     color: gray;
+    text-decoration: underline;
 
 }
 
 footer a:visited {
-    color: blueviolet;
+    color: orange;
 }
 footer a:active {
     color: white;
